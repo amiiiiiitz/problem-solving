@@ -1,6 +1,6 @@
 # Problem Solving
 
-This repository contains my solutions to programming problems from Codeforces and LeetCode. It documents my ongoing practice in competitive programming and data structures and algorithms.
+This repository contains my solutions to programming problems solved on various online judges. It documents my ongoing practice in competitive programming and data structures and algorithms.
 
 ## Platforms
 
@@ -9,6 +9,7 @@ This repository contains my solutions to programming problems from Codeforces an
 
 ## Languages
 
+- C
 - C++
 - Python
 
