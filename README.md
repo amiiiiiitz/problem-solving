@@ -1,11 +1,11 @@
 # Problem Solving
 
-This repository contains my solutions to programming problems solved on various online judges. It documents my ongoing practice in competitive programming and data structures and algorithms.
+A collection of my solutions to programming problems from various online judges, including Codeforces, LeetCode, and many other competitive programming platforms. This repository reflects my continuous practice in competitive programming, Data Structures and Algorithms (DSA), and algorithmic problem solving.
 
-## Platforms
+## Profiles
 
-- [Codeforces]([https://codeforces.com/](https://codeforces.com/profile/amit.hasan2730)) — Competitive programming problems and contests.
-- [LeetCode]([https://leetcode.com/](https://leetcode.com/u/amiiiiiitz/)) — Algorithmic challenges and data structures and algorithms practice.
+- [Codeforces](https://codeforces.com/profile/amit.hasan2730)
+- [LeetCode](https://leetcode.com/u/amiiiiiitz/)
 
 ## Languages
 
@@ -13,14 +13,13 @@ This repository contains my solutions to programming problems solved on various 
 - C++
 - Python
 
-## Objectives
+## Focus Areas
 
-- Strengthen problem-solving and analytical thinking.
-- Develop a solid understanding of data structures and algorithms.
-- Explore different approaches to algorithmic challenges.
-- Maintain a record of solved problems and continuous progress.
+- Data Structures and Algorithms
+- Competitive Programming
+- Algorithm Design and Optimization
+- Problem-Solving Techniques
 
 ## Progress
 
-This repository is continuously updated as I solve new problems, learn new concepts, and improve my problem-solving skills.
-
+This repository is continuously updated with solutions from different online judges as I solve new problems, explore algorithms, and improve my problem-solving skills.
